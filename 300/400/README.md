@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-== IMAGE GOES HERE ==
+![Learning-Cloud-Access-Security-Broker_User-Stories](https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/assets/1499433/79576dd6-3ddc-47d5-b820-242fbb04697d)
 
 Cloud Access Security Broker
 
